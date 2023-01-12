@@ -1,7 +1,6 @@
 from game_data import data
 import random
 from art import logo, vs
-# from replit import clear
 
 def get_random_account():
   """Get data from random account"""
@@ -12,7 +11,6 @@ def format_data(account):
   name = account["name"]
   description = account["description"]
   country = account["country"]
-  # print(f'{name}: {account["follower_count"]}')
   return f"{name}, a {description}, from {country}"
 
 def check_answer(guess, a_followers, b_followers):
@@ -48,7 +46,6 @@ def game():
     b_follower_count = account_b["follower_count"]
     is_correct = check_answer(guess, a_follower_count, b_follower_count)
 
-    # clear()
     print(logo)
     if is_correct:
       score += 1
@@ -88,5 +85,3 @@ Suppose you just started the game and you are comparing the followers of A - Ins
 # Make B become the next A.
 
 # Add art.
-
-# Clear screen between rounds.
