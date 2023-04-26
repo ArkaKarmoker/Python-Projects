@@ -1,2 +1,2 @@
 # Python-Projects
-All projects created in PyCharm IDE
+All projects created in PyCharm IDE.
