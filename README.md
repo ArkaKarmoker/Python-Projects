@@ -24,3 +24,4 @@ Project Sequence:
 19. :us: [U.S. States game](https://github.com/ArkaKarmoker/Python-Projects/tree/main/U.S.%20States%20Game)
 20. :abc: [Nato alphabet](https://github.com/ArkaKarmoker/Python-Projects/tree/main/NATO%20Alphabet)
 21. :straight_ruler: [Miles to kilometers converter](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Mile%20to%20Kilo%20Converter%20GUI)
+22. :tomato: [Pomodoro](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Pomodoro)
