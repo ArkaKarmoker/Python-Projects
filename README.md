@@ -27,3 +27,4 @@ Project Sequence:
 22. :tomato: [Pomodoro](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Pomodoro)
 23. :closed_lock_with_key: [Password Manager](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Password%20Manager)
 24. :flower_playing_cards: [Flash Card](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Flash%20Card)
+25. :birthday: [Birthday Wisher](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Birthday%20Wisher)
