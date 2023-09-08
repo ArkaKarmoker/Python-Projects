@@ -26,3 +26,4 @@ Project Sequence:
 21. :straight_ruler: [Miles to kilometers converter](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Mile%20to%20Kilo%20Converter%20GUI)
 22. :tomato: [Pomodoro](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Pomodoro)
 23. :closed_lock_with_key: [Password Manager](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Password%20Manager)
+24. :flower_playing_cards: [Flash Card](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Flash%20Card)
