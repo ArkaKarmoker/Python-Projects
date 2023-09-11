@@ -28,3 +28,11 @@ Project Sequence:
 23. :closed_lock_with_key: [Password Manager](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Password%20Manager)
 24. :flower_playing_cards: [Flash Card](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Flash%20Card)
 25. :birthday: [Birthday Wisher](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Birthday%20Wisher)
+26. 💬 [Kanye Quotes]
+27. 📡 [ISS Overhead Notifier]
+28. 🗒️ [Quizzler App](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Quizzler%20App)
+29. ⛈️ [Rain Alert](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Rain%20Alert)
+30. 📰 [Stock News](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Stock%20News)
+31. 🏋️ [Habit Tracking](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Habit%20Tracking)
+32. 🏋️‍♂️ [Exercise Tracking](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Exercise%20Tracking)
+33. 🛫 [Flight Deals](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Flight%20Deals)
