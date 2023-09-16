@@ -35,4 +35,4 @@ Project Sequence:
 30. 📰 [Stock News](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Stock%20News)
 31. 🏋️ [Habit Tracking](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Habit%20Tracking)
 32. 🏋️‍♂️ [Exercise Tracking](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Exercise%20Tracking)
-33. 🛫 [Flight Deals](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Flight%20Deals)
+33. 🛫 [Flight Club](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Flight%20Club)
