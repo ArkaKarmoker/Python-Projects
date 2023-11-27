@@ -48,3 +48,4 @@ Project Sequence:
 43. 📛 [Name Card](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Name%20Card)
 44. ✍️ [Blog Templating](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Blog%20Templating)
 45. ✍️ [Blog Capstone Project](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Blog%20Capstone%20Project)
+46. 🎥 [Movie Project](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Movie%20Project)
