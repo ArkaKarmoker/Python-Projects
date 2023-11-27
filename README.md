@@ -48,3 +48,16 @@ Project Sequence:
 43. 📛 [Name Card](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Name%20Card)
 44. 🎥 [Movie Project](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Movie%20Project)
 45. ✍️ [Blog App](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Blog%20App)
+
+Data Science ⬇️
+
+46. 🐍 [Data Exploration Pandas College Major](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Data%20Exploration%20Pandas%20College%20Major)
+46. 🐍 [Programming Languages](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Programming%20Languages)
+46. 🐍 [LEGO Notebook and Data](https://github.com/ArkaKarmoker/Python-Projects/tree/main/LEGO%20Notebook%20and%20Data)
+46. 🐍 [Google Trends Data Viz](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Google%20Trends%20Data%20Viz)
+46. 🐍 [Google Play Store Analysis](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Google%20Play%20Store%20Analysis)
+46. 🐍 [Computation with NumPy](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Computation%20with%20NumPy)
+46. 🐍 [Seaborn Linear Regression](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Seaborn%20Linear%20Regression)
+46. 🐍 [Nobel Prize Analysis](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Nobel%20Prize%20Analysis)
+46. 🐍 [Dr Semmelweis Analysis](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Dr%20Semmelweis%20Analysis)
+46. 🐍 [Multivariable Regression](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Multivariable%20Regression)
