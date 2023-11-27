@@ -46,6 +46,5 @@ Project Sequence:
 41. 🖼️ [Instagram Follower Bot](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Instagram%20Follower%20Bot)
 42. 🏠 [Zillow Rental Research](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Zillow%20Rental%20Research)
 43. 📛 [Name Card](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Name%20Card)
-44. ✍️ [Blog Templating](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Blog%20Templating)
-45. ✍️ [Blog Capstone Project](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Blog%20Capstone%20Project)
-46. 🎥 [Movie Project](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Movie%20Project)
+44. 🎥 [Movie Project](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Movie%20Project)
+45. ✍️ [Blog App](https://github.com/ArkaKarmoker/Python-Projects/tree/main/Blog%20App)
