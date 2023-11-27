@@ -1,12 +1,9 @@
-# Day 71: Deploying the Web Application
+# Blog App
 
 ## Overview
 
 - Topics: Flask, Web Hosting (Render), .gitignore, Version Control, Environment Variables, Gunicorn, PostgreSQL
 
-![adventureblog (1)](https://github.com/Mikerniker/100_Days_of_Python/assets/63586831/10ca571d-dded-4cf4-8602-041de06ac73b)
-
-[Live Site](https://my-adventure-blog.onrender.com/)
 
 ### Tasks
 
@@ -18,10 +15,6 @@
 - Host on web service provider
 - Upgrade SQLite Database to PostgreSQL
 
-
-### Links
-
-- Solution URL: [Deploying the Web Application](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day71)
 
 ### Built with
 
