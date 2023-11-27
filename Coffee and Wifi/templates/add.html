@@ -1,0 +1,46 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block title %}Add A New Cafe{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-8">
+
+      <h1>Add a new cafe into the database</h1>
+
+      <form method="POST">
+        {{ form.hidden_tag() }}
+        <div class="form-group">
+          {{ form.cafe.label }} {{ form.cafe(size=32) }}
+        </div>
+        <div class="form-group">
+          {{ form.location.label }} {{ form.location(size=64) }}
+        </div>
+        <div class="form-group">
+          {{ form.open_time.label }} {{ form.open_time(size=10) }}
+        </div>
+        <div class="form-group">
+          {{ form.close_time.label }} {{ form.close_time(size=10) }}
+        </div>
+        <div class="form-group">
+          {{ form.coffee.label }} {{ form.coffee() }}
+        </div>
+        <div class="form-group">
+          {{ form.wifi.label }} {{ form.wifi() }}
+        </div>
+        <div class="form-group">
+          {{ form.power.label }} {{ form.power() }}
+        </div>
+        <div class="form-group">
+          {{ form.submit(class="btn btn-primary") }}
+        </div>
+      </form>
+
+      <p class="space-above"><a href="{{ url_for('cafes') }}">See all cafes</a></p>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
